@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-> 🎓 Final-year student at **YouCode (UM6P)** — Safi, Morocco  
+> 🎓 Graduate of **YouCode (UM6P)** — Safi, Morocco  
 > 💼 **Actively seeking a Full-Stack Developer position** (Java / Angular)  
 > 🔭 Passionate about backend architecture with Spring Boot and modern frontends  
 > 🌍 Based in Morocco | Open to remote & relocation  
